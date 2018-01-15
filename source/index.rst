@@ -65,3 +65,4 @@ The 5e SRD
 
     license
     midgardheroes_license
+    southlandsheroes_license
